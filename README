@@ -1,0 +1,2 @@
+The keywords detector and context extracting is based on the CTW datasets.
+We use the SSD for character detectors and the keywords operation is in the regular.py in the ssd directory
